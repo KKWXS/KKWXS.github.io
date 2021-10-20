@@ -233,8 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: <a href="https://sm.ms/image/s5brKMBuLzqfGjA" target="_blank"><img src="https://i.loli.net/2021/10/21/s5brKMBuLzqfGjA.jpg" ></a>
-
+avatar: [url=https://sm.ms/image/s5brKMBuLzqfGjA][img]https://i.loli.net/2021/10/21/s5brKMBuLzqfGjA.jpg[/img][/url]
 
 # Table Of Contents in the Sidebar
 toc:

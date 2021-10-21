@@ -7,7 +7,7 @@ tags: [GAME,Calligraphy]
 
 
 【明日方舟手书】Wozwald（凛冬中心）
-[![cover.jpg](https://i.loli.net/2021/10/22/Y4H9twFKanvR536.jpg)"title"](https://www.bilibili.com/video/BV1Py4y1n7J2?spm_id_from=333.999.0.0)
+[![cover.jpg](https://i.loli.net/2021/10/22/Y4H9twFKanvR536.jpg) "title"](https://www.bilibili.com/video/BV1Py4y1n7J2?spm_id_from=333.999.0.0)
 
 
 【方舟拜年纪单品】原创曲《幻灯片》

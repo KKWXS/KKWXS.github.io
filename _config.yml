@@ -191,7 +191,7 @@ font:
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
-  logo: https://i.loli.net/2021/10/20/FOZi2TpMWQ9JuEf.png
+  logo:
     external: true
     family:
     size:

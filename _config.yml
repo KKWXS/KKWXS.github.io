@@ -343,7 +343,7 @@ post_copyright:
 # Options:
 #   enabled: [true/false] - Replace with specific image
 #   image: url-of-image   - Images's url
-custom_logo:
+custom_logo: https://i.loli.net/2021/10/20/FOZi2TpMWQ9JuEf.png
   enabled: false
   image:
 

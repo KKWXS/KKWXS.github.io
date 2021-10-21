@@ -6,10 +6,7 @@ tags: [GAME,Calligraphy]
 我特别喜欢的方舟高质量手书
 
 【明日方舟手书】Wozwald（凛冬中心）
-
-
 [![cover.jpg](https://i.loli.net/2021/10/22/Y4H9twFKanvR536.jpg)](https://www.bilibili.com/video/BV1Py4y1n7J2?spm_id_from=333.999.0.0)
-<a href="https://www.bilibili.com/video/BV1Py4y1n7J2?spm_id_from=333.999.0.0" target="_blank">![cover.jpg](https://i.loli.net/2021/10/22/Y4H9twFKanvR536.jpg)</a>
 
 【方舟拜年纪单品】原创曲《幻灯片》
 [![886555831_cover.jpg](https://i.loli.net/2021/10/22/Trsdxi7gXNDbCOB.jpg)](https://www.bilibili.com/video/BV1rK4y1p7Cs?spm_id_from=333.999.0.0)

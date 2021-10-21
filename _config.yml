@@ -191,7 +191,7 @@ font:
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
-  logo:
+  logo: https://i.loli.net/2021/10/20/FOZi2TpMWQ9JuEf.png
     external: true
     family:
     size:
@@ -345,7 +345,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo: 
   enabled: false
-  image: https://i.loli.net/2021/10/20/FOZi2TpMWQ9JuEf.png
+  image:
 
 
 # Code Highlight theme

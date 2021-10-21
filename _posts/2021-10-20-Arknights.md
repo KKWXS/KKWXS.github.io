@@ -7,7 +7,7 @@ tags: [GAME,Calligraphy]
 
 
 【明日方舟手书】Wozwald（凛冬中心）
-[![cover.jpg](https://i.loli.net/2021/10/22/Y4H9twFKanvR536.jpg)](https://www.bilibili.com/video/BV1Py4y1n7J2?spm_id_from=333.999.0.0)
+[https://i.loli.net/2021/10/22/Y4H9twFKanvR536.jpg](https://www.bilibili.com/video/BV1Py4y1n7J2?spm_id_from=333.999.0.0)
 
 
 【方舟拜年纪单品】原创曲《幻灯片》
@@ -27,4 +27,5 @@ tags: [GAME,Calligraphy]
 
 
 【整合运动向手书】决死行进
-[俺的图图呢](https://www.bilibili.com/video/BV1Y7411J7N4?spm_id_from=333.999.0.0)
+[俺的图图呢]
+(https://www.bilibili.com/video/BV1Y7411J7N4?spm_id_from=333.999.0.0)
